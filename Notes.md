@@ -31,5 +31,3 @@ Mutate-X is designed to:
 | VAR0001    | 1          | SNP           | 87                | +0.05            | Pathogenic       |
 | VAR0002    | X          | Insertion     | 63                | -0.12            | Benign           |
 | VAR0003    | M          | Deletion      | 92                | +0.08            | Pathogenic       |
-
-> Tip: Keep this table updated during experiments to quickly visualize the effect of Mutate-X mutations on confidence scores and variant outcomes.
